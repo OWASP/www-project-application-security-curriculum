@@ -1,0 +1,29 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: project-curriculum
+    platform: slack
+    url: https://owasp.slack.com/archives/C017AC06QV7
+leaders:
+  - name: Grant Ongers
+    email: grant.ongers@owasp.org
+    github: rewtd
+  - name: Toby Irvine
+    email: toby.irvine@owasp.org
+    github: tobyirvine
+level: 2
+name: OWASP Application Security Curriculum
+pitch: Description for OWASP Application Security Curriculum
+repositories:
+  - name: www-project-application-security-curriculum
+    url: https://github.com/OWASP/www-project-application-security-curriculum
+    description: OWASP Foundation Web Repository
+  - name: Application-Security-Curriculum
+    url: https://github.com/OWASP/Application-Security-Curriculum
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-application-security-curriculum
